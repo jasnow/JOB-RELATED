@@ -26,16 +26,15 @@
    * Phishing Analysis
    * Threat Intel/Hunting (collect, summarize, report)
    * Digital Forensics (Need definition)/Investigative-forensics
-     * Given [Network dump, memory dump, disk images,
-       network protocols, file formats] provide data/intel.
+     * Given [Network dump, memory dump, disk images, network protocols, file formats] provide data/intel.
      * SOC (Seurity Operations Center)/Triage security incidents
      * Intrusion Detection
      * Incident-Response
      * Related to Splunk
    * SIEM (Security Info'n and Event Management).
    * Incident-Response
-   ..........
-   *  OSINT/Privacy
+
+   * OSINT/Privacy
    * Vuln Management
    * Physical Security
    * Network Analysis (Need definition)
@@ -45,8 +44,7 @@
    * Green: Yellow+Blue (Automate Blue activities)
    * GRC (Governance, Risk, Compliance)
      * https://www.cio.com/article/3206607/what-is-grc-and-why-do-you-need-it.html
-   * SAMPLE ROLES: security analysis, security-engineer, 
-     forensics-analysis, threat-hunters
+   * SAMPLE ROLES: security analysis, security-engineer, forensics-analysis, threat-hunters
  * Purple Team (Red Team member works with Blue team)
  * Red Team: Pen Testings
    * Networking Hacking
@@ -58,12 +56,10 @@
    * Social Engineering Hacking (target people)
  * Yellow: Security during Development
  * Security Tool Developer (Orange or Green? Both)
-..........
+
  * Exploit-Development
  * Rev Eng (binary => exploit)
- * Crypto (Cipher text, symmetric/asymmetric,
-   special cryptosystems and hashes, crypto algorithm/app'n,
-   descrypt cipher text, find weakness in crypto alg)
+ * Crypto (Cipher text, symmetric/asymmetric, special cryptosystems and hashes, crypto algorithm/app'n, descrypt cipher text, find weakness in crypto alg)
  * Cloud Security
  * IoT Security
 EOF
