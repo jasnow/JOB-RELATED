@@ -1,5 +1,7 @@
 # JOB HIERARCHY
 
+**PRs (pull requests) and emails for adds or changes are welcome.**
+
 ## InfoSec Job Titles (2/20/2020: Initial Draft)
  * Pen Test
  * Pen Test - Red Team Lead
